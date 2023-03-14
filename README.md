@@ -14,7 +14,12 @@ python format_pdbtowrl.py
 ````
 blender --background --python blender_operation.py
 ````
-引数：インポートするファイルのパスとエクスポートした後のファイルのパス
+引数：インポートするファイル名とエクスポートした後のファイル名
+
+## UnityにおけるMRでハンドトラッキングを可能にするスクリプト
+3Dマテリアルにスクリプトをアタッチする
+
+＊Mesh ColliderのConvexを有効にするコードは書かれているが、有効にできていないことに注意
 
 # 環境
 - Mac OS
